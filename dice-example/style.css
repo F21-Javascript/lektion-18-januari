@@ -33,6 +33,8 @@ footer button {
     border-radius: .5rem;
     outline: none;
     -webkit-apperance: none;
+    border: none;
+    cursor: pointer;
 }
 
 .dice {
